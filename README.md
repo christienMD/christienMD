@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/mdchristien" target="blank"><img src="https://img.shields.io/twitter/follow/mdchristien?logo=twitter&style=for-the-badge" alt="mdchristien" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React Native , PHP and Laravel**
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-mdchristien.vercel.app](https://my-portfolio-mdchristien.vercel.app)
 
