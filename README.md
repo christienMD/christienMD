@@ -1,15 +1,12 @@
-<h1 align="center">Hi 👋, I'm Mesueh Christien</h1>
-<h3 align="center">A passionate fullstack developer</h3>
+![MD Christien Profile Banner](https://res.cloudinary.com/duej5khma/image/upload/v1740892341/md--gitprofile_ytz1k7.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=christienmd&label=Profile%20views&color=0e75b6&style=flat" alt="christienmd" /> </p>
 
 <p align="left"> <a href="https://twitter.com/mdchristien" target="blank"><img src="https://img.shields.io/twitter/follow/mdchristien?logo=twitter&style=for-the-badge" alt="mdchristien" /></a> </p>
 
-- 🌱 I’m currently I’m currently learning **React Native , PHP and Laravel**
-
 - 👨‍💻 All of my projects are available at [https://mdchristien-portfolio.vercel.app](https://mdchristien-portfolio.vercel.app)
 
-- 💬 Ask me about **Ask me about React , Next.js and TypeScript**
+- 💬 Ask me about **Ask me about React , Next.js , React Native , Laravel and TypeScript**
 
 - 📫 How to reach me **mesuehchristian12@mail.com**
 
