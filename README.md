@@ -1,4 +1,4 @@
-![MD Christien Profile Banner](https://res.cloudinary.com/duej5khma/image/upload/v1740892341/md--gitprofile_ytz1k7.png)
+<img src="https://res.cloudinary.com/duej5khma/image/upload/v1740892341/md--gitprofile_ytz1k7.png" alt="md christien profile image" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=christienmd&label=Profile%20views&color=0e75b6&style=flat" alt="christienmd" /> </p>
 
