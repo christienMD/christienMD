@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Ask me about React , Next.js , React Native , Laravel and TypeScript**
 
-- 📫 How to reach me **mesuehchristian12@mail.com**
+- 📫 How to reach me **info@mdchristien.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
